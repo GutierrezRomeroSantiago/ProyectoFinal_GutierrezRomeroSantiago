@@ -17,6 +17,7 @@ Este proyecto ha sido realizado por **Santiago Gutiérrez Romero**, alumno del *
  - [ ] **TypeScript**
  - [ ] **MONGO DB**
  - [ ] **MONGO ATLAS**
+ - [ ] **NODE.JS**
 
 # Índice de la Documentación
 
