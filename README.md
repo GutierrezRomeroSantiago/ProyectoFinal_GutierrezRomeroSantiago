@@ -6,6 +6,8 @@ Este proyecto ha sido realizado por **Santiago Gutiérrez Romero**, alumno del *
 # Objetivo
 
 **El objetivo de este proyecto** es demostrar diferentes habilidades y puesta en escena de conceptos aprendidos durante la 1º evaluación del curso 2021/22, como conductor hemos usado el lenguaje de programación **typeScript** y el entorno **NODE.js**
+
+# Competencias
  - [ ] **ENCAPSULACIÓN**
  - [ ] **HERENCIA**
  - [ ] **SOBREESCRITURA**
