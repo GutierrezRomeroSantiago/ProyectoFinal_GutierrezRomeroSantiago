@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  },
+  "name": "proyecto_crud_1ev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^16.11.7",
+    "cjs-loader": "^0.1.0",
+    "mongoose": "^6.0.12"
+  }
+}
